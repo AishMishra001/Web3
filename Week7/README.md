@@ -9,3 +9,5 @@ copy the public address
 
 post this address in Postman to get the details ( Post Method ) ( https://api.mainnet-beta.solana.com) 
 
+
+
